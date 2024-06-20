@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 18 20:25:07 2024
-
-@author: Equipo
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.optimize as opt
